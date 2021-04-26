@@ -4,14 +4,33 @@
     <projectFile>WebApi.Samples/WebApi.Samples.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57cc18d1-a7b5-4481-8abf-a594915ebfe1" name="Default Changelist" comment="" />
+    <list default="true" id="57cc18d1-a7b5-4481-8abf-a594915ebfe1" name="Default Changelist" comment="Init">
+      <change afterPath="$PROJECT_DIR$/WebApi.Samples.Application/Interfaces/IGenericRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApi.Samples.Application/Interfaces/IProductRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApi.Samples.Core/Entities/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApi.Samples.Infrastructure/Repositories/ProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApi.Samples/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApi.Samples/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApi.Samples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApi.Samples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi.Samples.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi.Samples.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/WebApi.Samples.Core/Class1.cs" />
+      <option value="$PROJECT_DIR$/WebApi.Samples.Application/Class1.cs" />
+      <option value="$PROJECT_DIR$/WebApi.Samples.Infrastructure/Class1.cs" />
+      <option value="$PROJECT_DIR$/WebApi.Samples.Application/Interfaces/IGenericRepository.cs" />
+      <option value="$PROJECT_DIR$/WebApi.Samples.Core/Entities/Product.cs" />
+      <option value="$PROJECT_DIR$/WebApi.Samples.Infrastructure/Repositories/ProductRepository.cs" />
+      <option value="$PROJECT_DIR$/WebApi.Samples.Application/Interfaces/IProductRepository.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1riZtSq6nO1tswbalhgs9j7J3ps" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,13 +85,66 @@
       <option name="presentableId" value="Default" />
       <updated>1619461087078</updated>
       <workItem from="1619461093986" duration="12000" />
+      <workItem from="1619461139506" duration="2384000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1619461394606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619461394606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WebApi.Samples.Infrastructure/Repositories/ProductRepository.cs</url>
+          <line>32</line>
+          <properties documentPath="C:\repo\WebApi.Samples\WebApi.Samples.Infrastructure\Repositories\ProductRepository.cs" initialLine="26" containingFunctionPresentation="method 'AddAsync'">
+            <startOffsets>
+              <option value="1565" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1663" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
