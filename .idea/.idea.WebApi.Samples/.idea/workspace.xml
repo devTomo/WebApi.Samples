@@ -4,11 +4,10 @@
     <projectFile>WebApi.Samples/WebApi.Samples.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57cc18d1-a7b5-4481-8abf-a594915ebfe1" name="Default Changelist" comment="Added Dapper and Repository">
-      <change afterPath="$PROJECT_DIR$/WebApi.Samples.Application/Interfaces/IUnitOfWork.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi.Samples.Infrastructure/ServiceRegistration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi.Samples.Infrastructure/UnitOfWork.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi.Samples.Infrastructure/WebApi.Samples.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi.Samples.Infrastructure/WebApi.Samples.Infrastructure.csproj" afterDir="false" />
+    <list default="true" id="57cc18d1-a7b5-4481-8abf-a594915ebfe1" name="Default Changelist" comment="Added ProductController">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApi.Samples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApi.Samples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi.Samples/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi.Samples/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi.Samples/WebApi.Samples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi.Samples/WebApi.Samples.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +15,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2cd2f7d402a056e2d6bd280aeda70110ae0427fe" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/repo/WebApi.Samples/WebApi.Samples/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi.Samples.Application/Interfaces/IUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi.Samples/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi.Samples.Infrastructure/UnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi.Samples.Infrastructure/ServiceRegistration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/repo/WebApi.Samples/WebApi.Samples.Infrastructure/Repositories/ProductRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi.Samples/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -30,6 +43,7 @@
       <option value="$PROJECT_DIR$/WebApi.Samples.Infrastructure/ServiceRegistration.cs" />
       <option value="$PROJECT_DIR$/WebApi.Samples.Application/Interfaces/IUnitOfWork.cs" />
       <option value="$PROJECT_DIR$/WebApi.Samples.Infrastructure/UnitOfWork.cs" />
+      <option value="$PROJECT_DIR$/WebApi.Samples/Startup.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1riZtSq6nO1tswbalhgs9j7J3ps" />
@@ -39,6 +53,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -144,10 +160,10 @@
           <line>32</line>
           <properties documentPath="C:\repo\WebApi.Samples\WebApi.Samples.Infrastructure\Repositories\ProductRepository.cs" initialLine="26" containingFunctionPresentation="method 'AddAsync'">
             <startOffsets>
-              <option value="1565" />
+              <option value="1567" />
             </startOffsets>
             <endOffsets>
-              <option value="1663" />
+              <option value="1666" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
